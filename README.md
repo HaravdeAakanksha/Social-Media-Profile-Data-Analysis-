@@ -141,4 +141,6 @@ This project demonstrates how Python can transform unstructured text into organi
 
 ## Author
 
-**Your Name**
+**Aakanksha Haravde**
+
+Aspiring Data Analyst | SQL Server | Power BI | Data Analytics | Business Intelligence
